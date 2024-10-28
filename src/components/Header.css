@@ -1,0 +1,13 @@
+.bg-body-tertiary  {
+    background-color: rgb(109, 98, 98) !important;
+}
+.btn{
+    background-color:red !important;
+    color:white !important;
+    border:1px solid black !important;
+}
+/* #navbarSupportedContent{
+    border: 1px solid black;
+    display: flex !important;
+    align-items: center;
+} */
